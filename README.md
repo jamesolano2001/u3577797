@@ -1,5 +1,5 @@
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-alpha-sandy.vercel.app/api?username=u3577797&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats-alpha-sandy.vercel.app/api?username=u3577797&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile" />
 </a>
 
 <a href="">
